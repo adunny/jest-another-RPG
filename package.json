@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "text based rpg",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adunny/jest-another-RPG.git"
+  },
+  "author": "alen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adunny/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/adunny/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
